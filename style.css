@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+}
+canvas{
+    box-shadow: 5px 5px 5px black;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+#pic{
+    font-size: 22px;
+}
